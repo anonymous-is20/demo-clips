@@ -1,0 +1,32 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Audio samples from "Synthesizing Personalized Non-speech Vocalization from Discrete Speech Representations"</title>
+    <!-- <link rel="stylesheet" href="../../stylesheet.css">
+    <link rel="shortcut icon" href="../../images/taco.png"> -->
+  </head>
+  <body>
+    <article>
+      <header>
+        <h1>Audio samples from "Synthesizing Personalized Non-speech Vocalization from Discrete Speech Representations"</h1>
+      </header>
+    </article>
+
+    <table>
+      <tbody>
+      <tr>
+        <td nowrap>Audio for Figure 2a</td>
+        <td><audio controls=""><source src="wavs/Fig2a.wav"></audio></td>
+      </tr>
+      <tr>
+        <td nowrap>Audio for Figure 2b</td>
+        <td><audio controls=""><source src="wavs/Fig2b.wav"></audio></td>
+      </tr>
+       <tr>
+        <td nowrap>Audio for Figure 2c</td>
+        <td><audio controls=""><source src="wavs/Fig2c.wav"></audio></td>
+      </tr>
+     </tbody>
+    </table>
+  </body>
+</html>
